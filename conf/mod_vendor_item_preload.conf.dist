@@ -1,0 +1,16 @@
+[worldserver]
+
+########################################
+# mod-vendor-item-preload
+#
+# Sends a vendor's item details to the client just before the vendor's list, so the window shows
+# every item name the first time it opens, also on a client whose Cache folder was just emptied.
+########################################
+
+#
+#    VendorItemPreload.Enable
+#        Description: Master switch.
+#        Default:     1
+#
+
+VendorItemPreload.Enable = 1
