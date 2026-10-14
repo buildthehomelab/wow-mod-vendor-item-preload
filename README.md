@@ -74,10 +74,6 @@ in one place.
 - **Blank prices or a question-mark currency icon:** that is the client missing an
   `ItemExtendedCost.dbc` or `Item.dbc` row from a client patch, not something this module sends.
 
-## Credits
-
-Written for the Vaultrona / Evermore realm.
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
